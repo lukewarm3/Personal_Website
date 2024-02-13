@@ -874,10 +874,6 @@ section {
   }
 }
 @media screen and (max-width: 1432px) {
-  .container {
-    padding: 3rem 3rem;
-  }
-
   .contact-content-con {
     flex-direction: column;
   }
@@ -906,7 +902,7 @@ section {
 @media screen and (max-width: 1250px) {
   .blogs {
     grid-template-columns: repeat(2, 1fr);
-    margin-top: 6rem;
+    margin-top: 3rem;
   }
 
   .portfolios {
@@ -945,10 +941,6 @@ section {
   }
 }
 @media screen and (max-width: 970px) {
-  .container {
-    padding: 7rem 6rem;
-  }
-
   .about-container .left-about {
     padding-right: 0rem;
   }
@@ -979,10 +971,6 @@ section {
   }
 }
 @media screen and (max-width: 700px) {
-  .container {
-    padding: 7rem 3rem;
-  }
-
   .about-stats .progress-bars {
     grid-template-columns: repeat(1, 1fr);
   }
